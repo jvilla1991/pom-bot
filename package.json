@@ -1,0 +1,27 @@
+{
+  "name": "pombot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "PomBot.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "nano": "^9.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvilla1991/pom-bot.git"
+  },
+  "keywords": [
+    "pomodoro"
+  ],
+  "author": "Psymbal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvilla1991/pom-bot/issues"
+  },
+  "homepage": "https://github.com/jvilla1991/pom-bot#readme"
+}
