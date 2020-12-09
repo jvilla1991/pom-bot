@@ -10,7 +10,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./src/bot.js"
+    "start": "node ./src/pombot.js",
+    "dev": "nodemon ./src/pombot.js"
   },
   "repository": {
     "type": "git",

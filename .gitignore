@@ -1,4 +1,5 @@
 # auth token
+/auth.json
 
 # Logs
 logs
